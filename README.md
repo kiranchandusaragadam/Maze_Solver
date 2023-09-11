@@ -19,4 +19,5 @@
 * Java Swing
 * Java AWT
 
+## Project Preview
 ![Maze_Solver_Snap](https://github.com/kiranchandusaragadam/Maze_Solver/assets/110031953/d91a35ca-d198-47f9-a359-1a98adb10b49)
